@@ -47,3 +47,6 @@ python run_queries.py
 
 
 Requirements: Python 3, pandas, sqlite3 (built into Python).
+
+Related Work
+https://github.com/Aditi30102004/Sales-EDA-Superstore.git
